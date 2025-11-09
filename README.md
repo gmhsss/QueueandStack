@@ -1,5 +1,5 @@
 # Queue and Stack System  
-Sistema em Java desenvolvido para **gerenciar e simular operações com Fila e Pilha** implementadas sobre **listas encadeadas autorais**, reforçando o domínio sobre estruturas dinâmicas, ponteiros e complexidade. Projeto acadêmico ideal para disciplinas de Estruturas de Dados, com foco em clareza, eficiência e autoria comprovada.  
+Sistema em Java desenvolvido para **gerenciar e simular operações com Fila e Pilha** implementadas sobre **listas encadeadas autorais**, reforçando o domínio sobre estruturas dinâmicas, ponteiros e complexidade. 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17%2B-blue" />
